@@ -1,0 +1,17 @@
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\bin\Debug\net6.0\NLayerService.deps.json
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\bin\Debug\net6.0\NLayerService.dll
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\bin\Debug\net6.0\NLayerService.pdb
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\obj\Debug\net6.0\NLayerService.csproj.AssemblyReference.cache
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\obj\Debug\net6.0\NLayerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\obj\Debug\net6.0\NLayerService.AssemblyInfoInputs.cache
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\obj\Debug\net6.0\NLayerService.AssemblyInfo.cs
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\obj\Debug\net6.0\NLayerService.csproj.CoreCompileInputs.cache
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\obj\Debug\net6.0\NLayerService.csproj.CopyComplete
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\obj\Debug\net6.0\NLayerService.dll
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\obj\Debug\net6.0\refint\NLayerService.dll
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\obj\Debug\net6.0\NLayerService.pdb
+C:\Users\ygmr4\source\repos\NLayer.Core\NLayerService\obj\Debug\net6.0\ref\NLayerService.dll
